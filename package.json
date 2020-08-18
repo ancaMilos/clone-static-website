@@ -1,0 +1,27 @@
+{
+  "name": "clone-static-website",
+  "version": "1.0.0",
+  "description": "Example for cloning static websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancaMilos/clone-static-website.git"
+  },
+  "keywords": [
+    "clone",
+    "website"
+  ],
+  "author": "Anca Milos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancaMilos/clone-static-website/issues"
+  },
+  "homepage": "https://github.com/ancaMilos/clone-static-website#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "website-scraper": "^4.2.2"
+  }
+}
